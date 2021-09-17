@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7VZsOkyqf6cy0KL2zBnml6xPIdaMwoIbPpWYuA9DRg6XKc5YZcefnngZdQ2vpGUHs+Ksahve9KEvMMQu0l1Zaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahek.aswani\\source\\repos\\UITest1\\UITestSample\\UITestSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahek.aswani\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit3testadapter\\3.13.0\\nunit3testadapter.3.13.0.nupkg.sha512",
+    "C:\\Users\\mahek.aswani\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mahek.aswani\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\mahek.aswani\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.uitest\\3.0.5\\xamarin.uitest.3.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

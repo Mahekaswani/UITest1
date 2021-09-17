@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="UITest1.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <StackLayout Margin="0,50,0,0" VerticalOptions="StartAndExpand">
+        <Image Source="xamarinmonkeysbanner.png" VerticalOptions="Center" />
+
+
+        <Entry
+            x:Name="entryPhoneNumber"
+            AutomationId="EntryPhoneNumber"
+            Placeholder="Enter Phone Number" />
+        <Button
+            AutomationId="ValidateButton"
+            Clicked="PhoneNumberValidate"
+            Text="Validate" />
+        <Label x:Name="lblResult" AutomationId="ResultLabel" />
+
+    </StackLayout>
+
+</ContentPage>

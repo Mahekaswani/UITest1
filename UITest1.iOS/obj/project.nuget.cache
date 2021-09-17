@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mx6eakv/nf+R+KM3bp6vjb8eBUTxRy0WmHljyzVZlNagpxZwe+MSXTvyiHu8s8AhiAs/S8Pbb5kZ6RatdXyTzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahek.aswani\\source\\repos\\UITest1\\UITest1.iOS\\UITest1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahek.aswani\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mahek.aswani\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\mahek.aswani\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\mahek.aswani\\.nuget\\packages\\xamarin.testcloud.agent\\0.22.2\\xamarin.testcloud.agent.0.22.2.nupkg.sha512"
+  ],
+  "logs": []
+}

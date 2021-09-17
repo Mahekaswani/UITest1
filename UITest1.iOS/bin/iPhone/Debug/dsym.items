@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="UITest1.iOS.app">
+      <NativeExecutable>UITest1.iOS</NativeExecutable>
+      <CompiledArchitectures>ARM64</CompiledArchitectures>
+      <NoDSymUtil>false</NoDSymUtil>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <SymbolsList>\Users\ci_user\Library\Caches\Xamarin\mtbs\builds\UITest1.iOS\7d7e6ce8a6f28bf47d7b8bbfedc0c6bb2595f5819dd648102438d0e1c9d50dfd\obj\iPhone\Debug\mtouch-symbols.list</SymbolsList>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>
